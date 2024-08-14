@@ -1,0 +1,489 @@
+ 
+<html>
+    <head>
+            <style type="text/css">
+                table tr td {
+                    border: 1px solid #666;
+                    font-size:11px;
+                    color:#333;
+                    border-spacing: 0px;
+                    padding: 4px;
+                }
+            </style>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td align="center">
+                    <b>ID Anggota</b>
+                </td>
+                <td align="center">
+                    <b>Tanggal Daftar</b>
+                </td>
+                <td align="center">
+                    <b>NIP</b>
+                </td>
+                <td align="center">
+                    <b>Nama Anggota</b>
+                </td>
+                <td align="center">
+                    <b>Email</b>
+                </td>
+                <td align="center">
+                    <b>Kontak</b>
+                </td>
+                <td align="center">
+                    <b>Status</b>
+                </td>
+            </tr>
+                            <tr>
+                    <td align="center">
+                        2                    </td>
+                    <td align="left">
+                        2016-01-01                    </td>
+                    <td align="left">
+                        RSES.123.008                    </td>
+                    <td align="left">
+                        Didi Muhadi                    </td>
+                    <td align="left">
+                        email@gmail.com1                    </td>
+                    <td align="left">
+                        8967755544                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        3                    </td>
+                    <td align="left">
+                        2023-01-02                    </td>
+                    <td align="left">
+                        RSES.123.009                    </td>
+                    <td align="left">
+                        Syamsul Maarif                    </td>
+                    <td align="left">
+                        email@gmail.com2                    </td>
+                    <td align="left">
+                        8967755543                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        4                    </td>
+                    <td align="left">
+                        2023-01-03                    </td>
+                    <td align="left">
+                        RSES.123.010                    </td>
+                    <td align="left">
+                        Ade Triyana                    </td>
+                    <td align="left">
+                        email@gmail.com3                    </td>
+                    <td align="left">
+                        8967755542                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        5                    </td>
+                    <td align="left">
+                        2023-01-04                    </td>
+                    <td align="left">
+                        RSES.123.011                    </td>
+                    <td align="left">
+                        Fikri Renaldy                    </td>
+                    <td align="left">
+                        fikrizulfikar@gmail.com                    </td>
+                    <td align="left">
+                        8967755541                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        6                    </td>
+                    <td align="left">
+                        2023-01-05                    </td>
+                    <td align="left">
+                        RSES.123.012                    </td>
+                    <td align="left">
+                        Bayu Anugerah                    </td>
+                    <td align="left">
+                        email@gmail.com5                    </td>
+                    <td align="left">
+                        8967755540                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        7                    </td>
+                    <td align="left">
+                        2023-01-06                    </td>
+                    <td align="left">
+                        RSES.123.013                    </td>
+                    <td align="left">
+                        Solihul Hadi                    </td>
+                    <td align="left">
+                        solihulhadi141213@gmail.com                    </td>
+                    <td align="left">
+                        8967755539                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        8                    </td>
+                    <td align="left">
+                        2023-01-07                    </td>
+                    <td align="left">
+                        RSES.123.014                    </td>
+                    <td align="left">
+                        Iwan Kurniawan                    </td>
+                    <td align="left">
+                        email@gmail.com7                    </td>
+                    <td align="left">
+                        8967755538                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        9                    </td>
+                    <td align="left">
+                        2023-01-08                    </td>
+                    <td align="left">
+                        RSES.123.015                    </td>
+                    <td align="left">
+                        Ohan Komarudin                    </td>
+                    <td align="left">
+                        email@gmail.com8                    </td>
+                    <td align="left">
+                        8967755537                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        10                    </td>
+                    <td align="left">
+                        2023-01-09                    </td>
+                    <td align="left">
+                        RSES.123.016                    </td>
+                    <td align="left">
+                        Hendy Yayat                    </td>
+                    <td align="left">
+                        email@gmail.com9                    </td>
+                    <td align="left">
+                        8967755536                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        11                    </td>
+                    <td align="left">
+                        2023-01-10                    </td>
+                    <td align="left">
+                        1107.RSES.025                    </td>
+                    <td align="left">
+                        Dedy Sumardi                    </td>
+                    <td align="left">
+                        email@gmail.com10                    </td>
+                    <td align="left">
+                        8967755535                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        12                    </td>
+                    <td align="left">
+                        2023-01-11                    </td>
+                    <td align="left">
+                        0105.RSES.006                    </td>
+                    <td align="left">
+                        Eti Rusmiati                    </td>
+                    <td align="left">
+                        email@gmail.com11                    </td>
+                    <td align="left">
+                        8967755534                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        13                    </td>
+                    <td align="left">
+                        2023-01-12                    </td>
+                    <td align="left">
+                        0903.RSES.121                    </td>
+                    <td align="left">
+                        Elly Wijaya Nu                    </td>
+                    <td align="left">
+                        email@gmail.com12                    </td>
+                    <td align="left">
+                        8967755533                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        14                    </td>
+                    <td align="left">
+                        2023-01-13                    </td>
+                    <td align="left">
+                        0314.RSES.184                    </td>
+                    <td align="left">
+                        Guruh Ardhianto                    </td>
+                    <td align="left">
+                        email@gmail.com13                    </td>
+                    <td align="left">
+                        8967755532                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        15                    </td>
+                    <td align="left">
+                        2023-01-14                    </td>
+                    <td align="left">
+                        0514.RSES.193                    </td>
+                    <td align="left">
+                        Eha Julaeha                    </td>
+                    <td align="left">
+                        email@gmail.com14                    </td>
+                    <td align="left">
+                        8967755531                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        16                    </td>
+                    <td align="left">
+                        2023-01-15                    </td>
+                    <td align="left">
+                        0120.RSES.458                    </td>
+                    <td align="left">
+                        Ihsan Harismun                    </td>
+                    <td align="left">
+                        email@gmail.com15                    </td>
+                    <td align="left">
+                        8967755530                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        17                    </td>
+                    <td align="left">
+                        2023-01-16                    </td>
+                    <td align="left">
+                        0121.RSES.450                    </td>
+                    <td align="left">
+                        Muhammad Iqbal                    </td>
+                    <td align="left">
+                        email@gmail.com16                    </td>
+                    <td align="left">
+                        8967755529                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        18                    </td>
+                    <td align="left">
+                        2023-01-17                    </td>
+                    <td align="left">
+                        0510.RSES.070                    </td>
+                    <td align="left">
+                        Acah Wiarsah                    </td>
+                    <td align="left">
+                        email@gmail.com17                    </td>
+                    <td align="left">
+                        8967755528                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        19                    </td>
+                    <td align="left">
+                        2023-01-18                    </td>
+                    <td align="left">
+                        0217.RSES.297                    </td>
+                    <td align="left">
+                        Ade Nuriman                    </td>
+                    <td align="left">
+                        email@gmail.com18                    </td>
+                    <td align="left">
+                        8967755527                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        20                    </td>
+                    <td align="left">
+                        2023-01-19                    </td>
+                    <td align="left">
+                        1018.RSES.373                    </td>
+                    <td align="left">
+                        Ai Siti Nurjami                    </td>
+                    <td align="left">
+                        email@gmail.com19                    </td>
+                    <td align="left">
+                        8967755526                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        21                    </td>
+                    <td align="left">
+                        2023-01-20                    </td>
+                    <td align="left">
+                        0317.RSES.308                    </td>
+                    <td align="left">
+                        Anri                    </td>
+                    <td align="left">
+                        email@gmail.com20                    </td>
+                    <td align="left">
+                        8967755525                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        22                    </td>
+                    <td align="left">
+                        2023-01-21                    </td>
+                    <td align="left">
+                        1218.RSES.381                    </td>
+                    <td align="left">
+                        Asep Pirmansyah                    </td>
+                    <td align="left">
+                        email@gmail.com21                    </td>
+                    <td align="left">
+                        8967755524                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        23                    </td>
+                    <td align="left">
+                        2023-01-22                    </td>
+                    <td align="left">
+                        0109.RSES.042                    </td>
+                    <td align="left">
+                        Asep Saepudin                    </td>
+                    <td align="left">
+                        email@gmail.com22                    </td>
+                    <td align="left">
+                        8967755523                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        26                    </td>
+                    <td align="left">
+                        2023-01-25                    </td>
+                    <td align="left">
+                        0517.RSES.328                    </td>
+                    <td align="left">
+                        Deni Hendriawan                    </td>
+                    <td align="left">
+                        email@gmail.com25                    </td>
+                    <td align="left">
+                        8967755520                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        27                    </td>
+                    <td align="left">
+                        2023-01-26                    </td>
+                    <td align="left">
+                        0216.RSES.253                    </td>
+                    <td align="left">
+                        Deniawati Lesta                    </td>
+                    <td align="left">
+                        email@gmail.com26                    </td>
+                    <td align="left">
+                        8967755519                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        28                    </td>
+                    <td align="left">
+                        2023-01-27                    </td>
+                    <td align="left">
+                        0414.RSES.185                    </td>
+                    <td align="left">
+                        Devi Nur Utami                    </td>
+                    <td align="left">
+                        email@gmail.com27                    </td>
+                    <td align="left">
+                        8967755518                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        29                    </td>
+                    <td align="left">
+                        2023-01-28                    </td>
+                    <td align="left">
+                        1219.RSES.413                    </td>
+                    <td align="left">
+                        Dewi Widiastuti                    </td>
+                    <td align="left">
+                        email@gmail.com28                    </td>
+                    <td align="left">
+                        8967755517                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        30                    </td>
+                    <td align="left">
+                        2023-01-29                    </td>
+                    <td align="left">
+                        0317.RSES.310                    </td>
+                    <td align="left">
+                        Diar Sukma Regi                    </td>
+                    <td align="left">
+                        email@gmail.com29                    </td>
+                    <td align="left">
+                        8967755516                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                                <tr>
+                    <td align="center">
+                        32                    </td>
+                    <td align="left">
+                        2023-01-29                    </td>
+                    <td align="left">
+                        123123                    </td>
+                    <td align="left">
+                        Dedeh Delawati                    </td>
+                    <td align="left">
+                        dedehdelawati@gmail.com                    </td>
+                    <td align="left">
+                        089664545451                    </td>
+                    <td align="left">
+                        Active                    </td>
+                </tr>
+                        </table>
+    </body>
+</html>

@@ -1,0 +1,619 @@
+ 
+    <html>
+        <head>
+                <style type="text/css">
+                    table tr td {
+                        border: 1px solid #666;
+                        font-size:11px;
+                        color:#333;
+                        border-spacing: 0px;
+                        padding: 4px;
+                    }
+                </style>
+        </head>
+        <body>
+            <table>
+                <tr>
+                    <td colspan="9" align="center">
+                        <b>Rincian Bagi Hasil Periode 01/01/2023 s/d 11/02/2023</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <b>No</b>
+                    </td>
+                    <td align="center">
+                        <b>Nama Anggota</b>
+                    </td>
+                    <td align="center">
+                        <b>Simpanan</b>
+                    </td>
+                    <td align="center">
+                        <b>Pinjaman</b>
+                    </td>
+                    <td align="center">
+                        <b>Penjualan</b>
+                    </td>
+                    <td align="center">
+                        <b>Jasa Simpanan</b>
+                    </td>
+                    <td align="center">
+                        <b>Jasa Pinjaman</b>
+                    </td>
+                    <td align="center">
+                        <b>Jasa Penjualan</b>
+                    </td>
+                    <td align="center">
+                        <b>Bagi Hasil</b>
+                    </td>
+                </tr>
+                
+                    <tr>
+                        <td align="center">
+                            1                        </td>
+                        <td align="left">
+                            Didi Muhadi                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            2                        </td>
+                        <td align="left">
+                            Syamsul Maarif                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            3                        </td>
+                        <td align="left">
+                            Ade Triyana                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            4                        </td>
+                        <td align="left">
+                            Fikri Renaldy                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            5                        </td>
+                        <td align="left">
+                            Bayu Anugerah                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            6                        </td>
+                        <td align="left">
+                            Solihul Hadi                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            7                        </td>
+                        <td align="left">
+                            Iwan Kurniawan                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            8                        </td>
+                        <td align="left">
+                            Hendy Yayat                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            9                        </td>
+                        <td align="left">
+                            Eti Rusmiati                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            10                        </td>
+                        <td align="left">
+                            Elly Wijaya Nu                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            11                        </td>
+                        <td align="left">
+                            Guruh Ardhianto                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            12                        </td>
+                        <td align="left">
+                            Eha Julaeha                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            13                        </td>
+                        <td align="left">
+                            Muhammad Iqbal                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            14                        </td>
+                        <td align="left">
+                            Acah Wiarsah                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            15                        </td>
+                        <td align="left">
+                            Ade Nuriman                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            16                        </td>
+                        <td align="left">
+                            Ai Siti Nurjami                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            17                        </td>
+                        <td align="left">
+                            Anri                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            18                        </td>
+                        <td align="left">
+                            Asep Pirmansyah                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            19                        </td>
+                        <td align="left">
+                            Asep Saepudin                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            20                        </td>
+                        <td align="left">
+                            Dadang Rosidi                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            21                        </td>
+                        <td align="left">
+                            Deni Hendriawan                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            22                        </td>
+                        <td align="left">
+                            Deniawati Lesta                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            23                        </td>
+                        <td align="left">
+                            Devi Nur Utami                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            24                        </td>
+                        <td align="left">
+                            Dewi Widiastuti                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            25                        </td>
+                        <td align="left">
+                            Diar Sukma Regi                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            26                        </td>
+                        <td align="left">
+                            Dadang Setiawan                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="center">
+                            27                        </td>
+                        <td align="left">
+                            Dedeh Delawati                        </td>
+                        <td align="right">
+                            1.500.000                        </td>
+                        <td align="right">
+                            500.000                        </td>
+                        <td align="right">
+                            100.000                        </td>
+                        <td align="right">
+                            150.000                        </td>
+                        <td align="right">
+                            500                        </td>
+                        <td align="right">
+                            200                        </td>
+                        <td align="right">
+                            150.700                        </td>
+                    </tr>
+                                </table>
+        </body>
+    </html>
